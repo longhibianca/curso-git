@@ -7,6 +7,8 @@ namespace ExemploGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Adicionada linha para segundo commit de teste");
         }
     }
 }
